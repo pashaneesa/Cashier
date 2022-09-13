@@ -1,0 +1,9 @@
+Install Localhost:
+
+1. Buat database dengan nama k_kasir.
+2. Extract File k_kasir.rar yang didownload kedalam directori:
+   C:\\xampp\htdocs (jika menggunakan XAMPP).
+   NB: PAstikan anda mengaktifkan Rewrite Module pada webserver Anda.!
+3. Buka http://localhost/phpmyadmin. Lalu import k_kasir.sql kedalam database yang ada buat.
+4. Pada Browser Buka URL http://localhost/k_kasir
+5. Selesai.  
